@@ -63,3 +63,7 @@
 ### Діаграма взаємодій для перетину таблиць
 
 ![intersection relations diagram](/RelationsDiagram.drawio.png)
+
+### Діаграма діяльності для сворення таблиці
+
+![activity diagram](/ActivityDiagram.drawio.png)
