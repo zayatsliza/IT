@@ -81,3 +81,5 @@
 
 ### Діаграма розгортання перетину таблиць
 ![tables intersection deployment diagram](/DeploymentDiagramIntersectTables.drawio.png)
+
+![add record deployment diagram](/AddRecordDiagram.drawio.png)
