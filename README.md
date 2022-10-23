@@ -78,3 +78,6 @@
 
 ### Діаграма розгортання для створення БД
 ![db creation deployment diagram](/DeploymentDiagramDBCreation.drawio.png)
+
+### Діаграма розгортання перетину таблиць
+![tables intersection deployment diagram](/DeploymentDiagramIntersectTables.drawio.png)
