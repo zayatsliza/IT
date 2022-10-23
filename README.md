@@ -75,3 +75,6 @@
 ### Діаграма діяльності для додавання рядка
 
 ![add row activity diagram](/ActivityDiagramAddRow.drawio.png)
+
+### Діаграма розгортання для створення БД
+![db creation deployment diagram](/DeploymentDiagramDBCreation.drawio.png)
