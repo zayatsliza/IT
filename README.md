@@ -59,3 +59,7 @@
 ### Діаграма класів
 
 ![class diagram](/ClassDiagram.drawio.png)
+
+### Діаграма взаємодій для перетину таблиць
+
+![intersection relations diagram](/RelationsDiagram.drawio.png)
