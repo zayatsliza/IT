@@ -66,4 +66,8 @@
 
 ### Діаграма діяльності для сворення таблиці
 
-![activity diagram](/ActivityDiagram.drawio.png)
+![creation activity diagram](/ActivityDiagram.drawio.png)
+
+### Діаграма діяльності для завантаження таблиці
+
+![upload activity diagram](/ActivityDiagramUploadDB.drawio.png)
