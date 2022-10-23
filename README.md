@@ -71,3 +71,7 @@
 ### Діаграма діяльності для завантаження таблиці
 
 ![upload activity diagram](/ActivityDiagramUploadDB.drawio.png)
+
+### Діаграма діяльності для додавання рядка
+
+![add row activity diagram](/ActivityDiagramAddRow.drawio.png)
