@@ -55,3 +55,7 @@
 
 3
 ![3](/ComponentDiagram2.drawio.png)
+
+### Діаграма класів
+
+![class diagram](/ClassDiagram.drawio.png)
