@@ -8,7 +8,7 @@ public class Server {
 
     public static void main(String args[]) {
         try {
-            DatabaseRemote obj = new DatabaseRemote("//Users//zayatsliza//Desktop//liza.json");
+            DatabaseRemote obj = new DatabaseRemote("//Users//zayatsliza//IdeaProjects//IT//java-technologies//liza.json");
 
             IDatabaseRemote stub = (IDatabaseRemote) UnicastRemoteObject.exportObject(obj, 0);
 
