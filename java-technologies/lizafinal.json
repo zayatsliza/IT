@@ -1,0 +1,193 @@
+{
+  "filePath": "\\Users\\zayatsliza\\IdeaProjects\\IT\\java-technologies\\lizafinal.json",
+  "tables": {
+    "b": {
+      "name": "b",
+      "rows": [],
+      "columns": {
+        "age": {
+          "type": "INT",
+          "name": "age",
+          "nullAllowed": true
+        },
+        "email": {
+          "type": "EMAIL",
+          "name": "email",
+          "nullAllowed": true
+        }
+      }
+    },
+    "d": {
+      "name": "d",
+      "rows": [],
+      "columns": {
+        "column1": {
+          "type": "ENUM",
+          "name": "column1",
+          "nullAllowed": true
+        },
+        "column2": {
+          "type": "EMAIL",
+          "name": "column2",
+          "nullAllowed": true
+        }
+      }
+    },
+    "left": {
+      "name": "left",
+      "rows": [
+        {
+          "elements": {
+            "name": {
+              "value": "Kate",
+              "column": "name"
+            },
+            "course": {
+              "value": "1",
+              "column": "course"
+            },
+            "id": {
+              "value": "123",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "name": {
+              "value": "Jake",
+              "column": "name"
+            },
+            "course": {
+              "value": "1",
+              "column": "course"
+            },
+            "id": {
+              "value": "125",
+              "column": "id"
+            }
+          }
+        },
+        {
+          "elements": {
+            "name": {
+              "value": "Monica",
+              "column": "name"
+            },
+            "course": {
+              "value": "2",
+              "column": "course"
+            },
+            "id": {
+              "value": "345",
+              "column": "id"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "name": {
+          "type": "STR",
+          "name": "name",
+          "nullAllowed": true
+        },
+        "course": {
+          "type": "INT",
+          "name": "course",
+          "nullAllowed": true
+        },
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        }
+      }
+    },
+    "right": {
+      "name": "right",
+      "rows": [
+        {
+          "elements": {
+            "course": {
+              "value": "1",
+              "column": "course"
+            },
+            "id": {
+              "value": "123",
+              "column": "id"
+            },
+            "email": {
+              "value": "petya@gmail.com",
+              "column": "email"
+            }
+          }
+        },
+        {
+          "elements": {
+            "course": {
+              "value": "1",
+              "column": "course"
+            },
+            "id": {
+              "value": "125",
+              "column": "id"
+            },
+            "email": {
+              "value": "masha@ukr.net",
+              "column": "email"
+            }
+          }
+        },
+        {
+          "elements": {
+            "course": {
+              "value": "3",
+              "column": "course"
+            },
+            "id": {
+              "value": "987",
+              "column": "id"
+            },
+            "email": {
+              "value": "shool@gmail.com",
+              "column": "email"
+            }
+          }
+        },
+        {
+          "elements": {
+            "course": {
+              "value": "1",
+              "column": "course"
+            },
+            "id": {
+              "value": "11",
+              "column": "id"
+            },
+            "email": {
+              "value": "liza@gmail.com",
+              "column": "email"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "course": {
+          "type": "INT",
+          "name": "course",
+          "nullAllowed": true
+        },
+        "id": {
+          "type": "INT",
+          "name": "id",
+          "nullAllowed": true
+        },
+        "email": {
+          "type": "EMAIL",
+          "name": "email",
+          "nullAllowed": true
+        }
+      }
+    }
+  }
+}
