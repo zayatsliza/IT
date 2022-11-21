@@ -4,7 +4,7 @@
 
 Ункціональна специфікація _системи управління табличними базами дани_ (СУТБД) у вигляді однієї або кількох діаграм прецедентів **UML**.
 
-![0 Етап UML](/UML.drawio.png)
+![0 Етап UML](/docs/UML.drawio.png)
 
 
 ## **Етап 1**
@@ -35,12 +35,12 @@
   * У папці створюється файл з розширенням .json з новою бд
   * Створена бд готова до редагування
 
-3. Операція перетин двох таблиць 
+3. Операція різниця двох таблиць 
 
   Передумова: відображаються дані бд, над таблицями якої буде здійснюватись операція
   
   * Користувач обирає першу таблицю
-  * Користувач натискає кнопку «Перетин таблиць»
+  * Користувач натискає кнопку «Різниця таблиць»
   * Користувач обирає другу таблицю
   * Перевіряється наявність спільних полів(з однаковим типом і назвою) 
   * Відображається нова таблиця, що є результатом операції
@@ -48,36 +48,36 @@
 ### Діаграми компонентів
 
 1
-![1](ComponentsDiagram.png)
+![1](docs/ComponentsDiagram.png)
 
 2
-![2](/ComponentDiagram1.drawio.png)
+![2](/docs/ComponentDiagram1.drawio.png)
 
 3
-![3](/ComponentDiagram2.drawio.png)
+![3](/docs/ComponentDiagram2.drawio.png)
 
 ### Діаграма класів
 
-![class diagram](/ClassDiagram.drawio.png)
+![class diagram](/docs/ClassDiagram.drawio.png)
 
-### Діаграма взаємодій для перетину таблиць
+### Діаграма взаємодій для різниці таблиць
 
-![intersection relations diagram](/RelationsDiagram.drawio.png)
+![intersection relations diagram](/docs/RelationsDiagram.drawio.png)
 
 ### Діаграма діяльності для сворення таблиці
 
-![creation activity diagram](/ActivityDiagram.drawio.png)
+![creation activity diagram](/docs/ActivityDiagram.drawio.png)
 
 ### Діаграма діяльності для завантаження таблиці
 
-![upload activity diagram](/ActivityDiagramUploadDB.drawio.png)
+![upload activity diagram](/docs/ActivityDiagramUploadDB.drawio.png)
 
 ### Діаграма діяльності для додавання рядка
 
-![add row activity diagram](/ActivityDiagramAddRow.drawio.png)
+![add row activity diagram](/docs/ActivityDiagramAddRow.drawio.png)
 
 ### Діаграма розгортання для створення БД
-![db creation deployment diagram](/DeploymentDiagramDBCreation.drawio.png)
+![db creation deployment diagram](/docs/DeploymentDiagramDBCreation.drawio.png)
 
-### Діаграма розгортання перетину таблиць
-![tables intersection deployment diagram](/DeploymentDiagramIntersectTables.drawio.png)
+### Діаграма розгортання для різниці таблиць
+![tables intersection deployment diagram](/docs/DeploymentDiagramSubstractTables.drawio.png)
